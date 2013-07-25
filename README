@@ -1,0 +1,14 @@
+before start configure in make_track.sh paths to util binaries
+
+export SOX=/opt/local/bin/sox
+export BC=/usr/bin/bc
+export LAME=/opt/local/bin/lame
+
+
+usage:
+
+./make_track.sh jobs/1.txt   
+
+see jobs directory for more details
+
+
